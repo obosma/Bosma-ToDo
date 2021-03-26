@@ -20,14 +20,7 @@
         todoList= todoList;
     }
 
-    import { time } from './stores.js';
-
-	const formatter = new Intl.DateTimeFormat('en', {
-		hour12: true,
-		hour: 'numeric',
-		minute: '2-digit',
-		second: '2-digit'
-	});
+	
     
 </script>
 
